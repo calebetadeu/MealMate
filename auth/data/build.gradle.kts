@@ -1,5 +1,6 @@
 plugins {
     alias(libs.plugins.mealmate.android.library)
+    alias (libs.plugins.mealmate.android.firebase)
 }
 
 android {
